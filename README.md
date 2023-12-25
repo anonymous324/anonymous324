@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @anonymous324
+- 👋 Hi, I’m Vishal Purnabhadur Rai
 - 👀 I’m interested in Coding and hacking
-- 🌱 I’m currently learning JAVASCRIPT
-- 📫 How to reach me THROUGH INSTAGRAM AND TELEGRAM
+- 🌱 I’m currently learning MERN language
 
