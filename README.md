@@ -52,6 +52,6 @@ Responsive Design · Basic SEO · Domain & Hosting Setup
 
 ### 📬 Connect with Me
 
-- 🌐 Portfolio: [nextgenbyvishal.in](https://nextgenbyvishal.in)
+- 🌐 Portfolio: [nextgenbyvishal.in](https://anonymous324.github.io/Portfolio)
 - 💼 LinkedIn: [linkedin.com/in/nextgenbyvishal](https://www.linkedin.com/in/nextgenbyvishal)
 - 📧 Email: vrai3245@gmail.com
