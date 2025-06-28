@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer | Frontend Specialist | Exploring Full-Stack Capabilities</h3>
 
 <p align="center">
-  <a href="https://nextgenbyvishal.in" target="_blank">🌐 Portfolio</a> •
+  <a href="https://anonymous324.github.io/Portfolio" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/nextgenbyvishal" target="_blank">💼 LinkedIn</a> •
-  📧 vrai3245@gmail.com
+  📧 vrai3245@protonmail.com
 </p>
 
 ---
@@ -54,4 +54,4 @@ Responsive Design · Basic SEO · Domain & Hosting Setup
 
 - 🌐 Portfolio: [anonymous324.github.io/Portfolio](https://anonymous324.github.io/Portfolio)
 - 💼 LinkedIn: [linkedin.com/in/nextgenbyvishal](https://www.linkedin.com/in/nextgenbyvishal)
-- 📧 Email: vrai3245@gmail.com
+- 📧 Email: vrai3245@protonmail.com
